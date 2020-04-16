@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FiapSmartCity")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SmartCity.Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("FiapSmartCity")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FiapSmartCity")]
+[assembly: System.Reflection.AssemblyProductAttribute("SmartCity.Net")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SmartCity.Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

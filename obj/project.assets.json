@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ester\\source\\repos\\FiapSmartCity\\FiapSmartCity.csproj",
-      "projectName": "FiapSmartCity",
-      "projectPath": "C:\\Users\\ester\\source\\repos\\FiapSmartCity\\FiapSmartCity.csproj",
+      "projectUniqueName": "C:\\Users\\ester\\source\\repos\\SmartCity.Net\\SmartCity.Net.csproj",
+      "projectName": "SmartCity.Net",
+      "projectPath": "C:\\Users\\ester\\source\\repos\\SmartCity.Net\\SmartCity.Net.csproj",
       "packagesPath": "C:\\Users\\ester\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ester\\source\\repos\\FiapSmartCity\\obj\\",
+      "outputPath": "C:\\Users\\ester\\source\\repos\\SmartCity.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

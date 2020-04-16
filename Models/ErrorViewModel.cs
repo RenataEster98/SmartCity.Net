@@ -1,6 +1,6 @@
 using System;
 
-namespace FiapSmartCity.Models
+namespace SmartCity.Net.Models
 {
     public class ErrorViewModel
     {
